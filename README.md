@@ -1,6 +1,6 @@
 <h1> Olá, eu sou o João Schulz</h1>
 
-<div align="center">
+<div>
   <a href="https://github.com/JoaoSchulz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSchulz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchulz&layout=compact&langs_count=7&theme=dracula"/>
