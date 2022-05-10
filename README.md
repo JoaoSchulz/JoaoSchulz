@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSchulz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchulz&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  <h2>Linguagens q eu estou familiarizado</h2>
+  <h2>Linguagens que eu estou familiarizado</h2>
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Joao-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
