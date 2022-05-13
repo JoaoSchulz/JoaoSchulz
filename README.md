@@ -1,3 +1,5 @@
+<img align="center" alt="Fundo" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/01/GUIA-INTRODU%C3%87%C3%83O-PROGRAMA%C3%87%C3%83O.png"/>
+
 <h1> Olá, eu sou o João Schulz</h1>
 
 <div>
