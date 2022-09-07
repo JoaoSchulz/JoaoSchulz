@@ -1,4 +1,4 @@
-<img align="center" alt="Fundo" src="https://tm.ibxk.com.br/2021/08/10/10181814794027.jpg?ims=1120x420"/>
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/99768538/188994855-caf9505e-b1b3-46a7-8e2a-9b344675ad3c.gif)
 
 <div>
   <a href="https://github.com/JoaoSchulz">
