@@ -1,5 +1,6 @@
-<h3><h3>
-<h3><h3>
+<h3>---> Hello, I'm João Schulz, I live in Brazil, Paraná, Foz do Iguaçu <h3>
+<h3>---> I'm a Software Engineering student at Uniamérica College<h3>
+<h3>---> Welcome to my Github profile <h3>
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/99768538/188994855-caf9505e-b1b3-46a7-8e2a-9b344675ad3c.gif)
 
