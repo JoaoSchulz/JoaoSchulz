@@ -26,3 +26,13 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-almeida-171b22239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>  
   <a href="https://stackoverflow.com/users/19944974/jo%c3%a3o-guilherme-almeida" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" align="center"></a>
   </div>
+  <h2>Some Tools i use<h2>
+    
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img src="https://profile-counter.glitch.me/{JoaoSchulz}/count.svg" /></p> 
