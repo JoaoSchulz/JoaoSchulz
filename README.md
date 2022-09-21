@@ -4,8 +4,7 @@
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/99768538/188994855-caf9505e-b1b3-46a7-8e2a-9b344675ad3c.gif)
 
-<div display = "flex" justify-content = "center">
-  <a href="https://github.com/JoaoSchulz">
+<div display = "flex">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoSchulz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchulz&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
