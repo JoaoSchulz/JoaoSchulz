@@ -8,6 +8,9 @@
   <img width="49%" height="197px" src="https://github-readme-stats.vercel.app/api?username=JoaoSchulz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="49%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSchulz&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoSchulz&theme=chalk&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
   <h2>Languages I am familiar with</h2>
 <div>
   <div style="display: inline_block"><br>
