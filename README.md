@@ -1,4 +1,4 @@
-<h3>---> Hello, I'm João Schulz, I live in Brazil, Paraná, Foz do Iguaçu <h3>
+<h3>---> Hello, I'm João Schulz, I live in Brazil,  Paraná, Foz do Iguaçu <h3>
 <h3>---> I'm a Software Engineering student at Uniamérica College<h3>
 <h3>---> Welcome to my Github profile <h3>
 
